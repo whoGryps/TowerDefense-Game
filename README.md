@@ -9,7 +9,7 @@ YouTube Video: https://www.youtube.com/watch?v=C4_iRLlPNFc&t=18297s
 
 ------ HOW TO PLAY ------
 
-Download the Folder and open up "Index.html" in a web browser
+Click the green "Code" button drop down and then click "Download as Zip". Once that is complete, open up the folder and open up "Index.html" in a web browser.
 
 As mentioned above, currently there is only one tower and one enemy
 - A tower costs 50 total coins
