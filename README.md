@@ -17,3 +17,5 @@ As mentioned above, currently there is only one tower and one enemy
 
 - Each round, more enemies spawn to make the level harder
 - Later rounds, the towers do less damage per hit
+- If an enemy does not get defeated by the end of the map, you lose one heart
+- You have 10 total hearts
